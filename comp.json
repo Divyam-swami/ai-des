@@ -1,0 +1,347 @@
+{
+  "Supplier in New Delhi": [
+    {
+      "title": "P C JAIN TEXTILE PVT LTD",
+      "rating": 5,
+      "views": 3208,
+      "deals_in": ["Embroidery Fabrics", "Garments"],
+      "products": 1049,
+      "catalog": 46,
+      "stock" : 40,
+      "location": "New Delhi",
+      "certifications": ["GOTS Certified", "Global Recycled Standard"],
+      "logo": "https://sowtex.com/assets/images/logos/169637760059680.png"
+    },
+    {
+      "title": "PARAMOUNT INSTRUMENTS PVT LTD",
+      "rating": 5,
+      "views": 880,
+      "deals_in": ["Testing Equipments"],
+      "products": 16,
+      "catalog": 0,
+      "stock" : 40,
+      "location": "New Delhi",
+      "certifications": ["ISO Certified"],
+      "logo": "https://sowtex.com/assets/images/logos/171977220026392.jpg"
+    },
+     {
+      "title": "COMMITTED CARGO CARE LTD",
+      "logo": "https://sowtex.com/assets/images/logos/172486980037130.png",
+      "deals_in": ["Logistics"],
+      "products": 0,
+      "catalog": 0,
+      "stock" : 40,
+      "views": 69,
+      "location": "New Delhi"
+    },
+    {
+      "title": "OPTITEX NORTH INDIA",
+      "logo": "https://sowtex.com/assets/images/logos/172486980086351.png",
+      "deals_in": ["Textile Software"],
+      "products": 0,
+      "catalog": 0,
+      "stock" : 40,
+      "views": 17,
+      "location": "New Delhi"
+    },
+    {
+      "title": "SRI VARDHMAN PALACE",
+      "logo": "https://sowtex.com/assets/images/logos/172314180062255.jpg",
+      "deals_in": ["Woven Fabric"],
+      "products": 0,
+      "catalog": 0,
+      "stock" : 40,
+      "views": 1514,
+      "location": "New Delhi"
+    },
+    {
+      "title": "BINDRA EXPORT",
+      "logo": "https://sowtex.com/assets/images/logos/171977220093285.jpeg",
+      "deals_in": ["Embroidery Fabrics"],
+      "products": 30,
+      "catalog": 0,
+      "stock" : 40,
+        "certifications": ["Gots"],
+      "views": 377,
+      "location": "New Delhi"
+    },
+    {
+      "title": "UDITYA TECH PRIVATE LIMITED",
+      "logo": "https://sowtex.com/assets/images/logos/171262080080201.jpg",
+      "deals_in": ["Textile Software"],
+      "products": 0,
+      "catalog": 1,
+      "stock" : 40,
+      "views": 645,
+      "location": "New Delhi"
+    },
+    {
+      "title": "SAKHI CREATION",
+      "logo": "https://sowtex.com/assets/images/logos/172616580065310.jpeg",
+      "deals_in": ["Bells"],
+      "products": 0,
+      "catalog": 0,
+      "stock" : 40,
+      "views": 415,
+       "certifications": ["OEKO-TEX Certified","Global Recycled Standard"],
+      "location": "New Delhi"
+    }
+  ],
+
+  "Supplier in Noida": [
+    {
+      "title": "CONCEPT WEAVERS PVT LTD",
+      "rating": 5,
+      "views": 870,
+      "deals_in": ["Narrow Fabric", "Tapes"],
+      "products": 30,
+      "catalog": 5,
+      "stock" : 40,
+      "location": "Noida",
+      "certifications": ["ISO Certified", "OEKO-TEX Certified"],
+      "logo": "https://images.unsplash.com/photo-1600181950075-19b0d5c396d5?auto=format&fit=crop&w=400&q=70"
+    }
+  ],
+  "Supplier in Coimbatore": [
+    {
+      "title": "KG DENIM LIMITED",
+      "rating": 5,
+      "views": 760,
+      "deals_in": ["Denim Fabrics"],
+      "products": 23,
+      "catalog": 0,
+      "stock" : 40,
+      "location": "Coimbatore",
+      "certifications": [],
+      "logo": "https://images.unsplash.com/photo-1614760380900-9c1052d96b0b?auto=format&fit=crop&w=400&q=70"
+    }
+  ],
+  "Supplier in Surat": [
+    {
+      "title": "EAGLE SILK MILLS PVT LTD",
+      "rating": 5,
+      "views": 1126,
+      "deals_in": ["Woven Fabric"],
+      "products": 22,
+      "catalog": 0,
+      "stock" : 40,
+      "location": "Surat",
+      "certifications": ["Birla Modal", "EcoVero Certified"],
+      "logo": "https://images.unsplash.com/photo-1619129880563-7f29f7f24b3f?auto=format&fit=crop&w=400&q=70"
+    },
+    {
+      "title": "SUGJIN EXIM LLP",
+      "rating": 4,
+      "views": 148,
+      "deals_in": ["Womens Wear", "Woven Fabric"],
+      "products": 101,
+      "catalog": 0,
+      "stock" : 40,
+      "location": "Surat",
+      "certifications": [],
+      "logo": "https://images.unsplash.com/photo-1611929170935-cf05d4d6d2d4?auto=format&fit=crop&w=400&q=70"
+    }
+  ],
+  "Supplier in Gurgaon": [
+    {
+      "title": "ICONIC LABELS",
+      "rating": 5,
+      "views": 740,
+      "deals_in": ["Labels"],
+      "products": 10,
+      "catalog": 0,
+      "stock" : 40,
+      "location": "Gurgaon",
+      "certifications": ["OEKO-TEX Certified", "Global Recycled Standard"],
+      "logo": "https://images.unsplash.com/photo-1606904825856-3a1b4c4e87e2?auto=format&fit=crop&w=400&q=70"
+    }
+  ],
+  "Delhi": [
+    {
+      "title": "PROEX FASHION PVT LTD",
+      "rating": 4,
+      "views": 436,
+      "deals_in": ["Womens Wear"],
+      "products": 160,
+      "catalog": 0,
+      "stock" : 40,
+      "location": "Delhi",
+      "certifications": ["GOTS Certified", "Sedex Certified"],
+      "logo": "https://images.unsplash.com/photo-1600181950075-19b0d5c396d5?auto=format&fit=crop&w=400&q=70"
+    }
+  ],
+ 
+  "cotton supplier in erode": [
+   
+    {
+      "title": "MALLOW INTERNATIONAL",
+      "rating": 4.8,
+      "views": 1020,
+      "deals_in": ["Woven Fabric", "Knitted Fabric"],
+      "products": 24,
+      "catalog": 1,
+      "stock" : 42,
+        "sust_cert":"Y",
+        "enquiry_awarded": 12,
+      "location": "Erode",
+      "certifications": ["OEKO-TEX Certified"],
+      "logo": "https://sowtex.com/assets/images/logos/168575040014279.png"
+    },
+    {
+      "title": "AMBA LINEN FAB",
+      "rating": 4.9,
+      "views": 980,
+      "deals_in": ["Linen Fabric", "Cotton Fabric"],
+      "products": 38,
+        "sust_cert":"Y",
+        "enquiry_awarded": 18,
+      "catalog": 3,
+      "stock" : 10,
+      "location": "Erode",
+      "certifications": ["ISO Certified"],
+      "logo": "https://sowtex.com/assets/images/logos/172314180059681.jpg"
+    },
+    {
+      "title": "DEVIGRAM DYEIES",
+      "rating": 4.6,
+      "views": 915,
+      "deals_in": ["Dyed Woven Fabric"],
+      "products": 20,
+        "sust_cert":"Y",
+        "enquiry_awarded": 10,
+      "catalog": 2,
+      "stock" : 30,
+      "location": "Erode",
+      "certifications": ["GOTS Certified"],
+      "logo": "https://sowtex.com/assets/images/logos/168575040085212.png"
+    },
+     {
+      "title": "V P TEX PRIVATE LIMITED",
+      "rating": 5,
+      "views": 1406,
+      "deals_in": ["Woven Fabric"],
+      "products": 85,
+      "catalog": 2,
+      "stock" : 23,
+      "sust_cert":"Y",
+      "enquiry_awarded": 23,
+      "location": "Erode",
+      "certifications": ["Birla Modal", "Birla Viscose"],
+      "logo": "https://sowtex.com/assets/images/logos/169542720086632.png"
+    },
+    {
+      "title": "RANGA WEAVES",
+      "rating": 5,
+      "views": 1392,
+      "deals_in": ["Woven Fabric"],
+      "products": 30,
+      "catalog": 0,
+      "stock" : 43,
+       "enquiry_awarded": 15,
+        "sust_cert":"Y",
+      "location": "Erode",
+      "certifications": ["BCI Certified", "EcoVero Certified"],
+      "logo": "https://sowtex.com/assets/images/logos/172219140034465.png"
+    },
+    {
+      "title": "NATRAJA TEXTILES",
+      "rating": 4.7,
+      "views": 642,
+      "deals_in": ["Woven Fabric"],
+      "products": 14,
+      "catalog": 1,
+      "stock" : 35,
+        "sust_cert":"Y",
+        "enquiry_awarded": 8,
+      "location": "Erode",
+      "certifications": ["BCI Certified"],
+      "logo": "https://sowtex.com/assets/images/logos/169836480017681.jpeg"
+    },
+    {
+      "title": "ELITE CLOTHING COMPANY",
+      "rating": 5,
+      "views": 870,
+      "deals_in": ["Woven Fabric", "Knitted Fabric"],
+      "products": 45,
+        "sust_cert":"Y",
+        "enquiry_awarded":18,
+      "catalog": 4,
+      "stock" : 64,
+      "location": "Erode",
+      "certifications": ["Organic Cotton Certified"],
+      "logo": "https://sowtex.com/assets/images/logos/171942660049071.jpg"
+    },
+    {
+      "title": "NETHRA TEXTILES CREATION",
+      "rating": 4.7,
+      "views": 842,
+      "deals_in": ["Woven Fabric"],
+      "products": 17,
+        "sust_cert":"Y",
+        "enquiry_awarded": 9,
+      "catalog": 1,
+      "stock" : 40,
+      "location": "Erode",
+      "certifications": ["BCI Certified"],
+      "logo": "https://sowtex.com/assets/images/logos/175269060067514.jpg"
+    },
+    {
+      "title": "AMBA LINEN FABS",
+      "rating": 4.9,
+      "views": 990,
+      "deals_in": ["Linen Fabric", "Cotton Fabric"],
+      "products": 38,
+        "sust_cert":"Y",
+      "catalog": 3,
+      "stock" : 40,
+      "location": "Erode",
+      "enquiry_awarded": 20,
+      "certifications": ["ISO Certified"],
+      "logo": "https://sowtex.com/assets/images/logos/172409220088095.jpg"
+    },
+    {
+      "title": "V P TEX PRIVATE LIMITED",
+      "rating": 5,
+      "views": 1406,
+      "deals_in": ["Woven Fabric"],
+      "products": 85,
+      "catalog": 2,
+      "stock" : 40,
+        "sust_cert":"Y",
+      "location": "Erode",
+      "enquiry_awarded": 23,
+      "certifications": ["Birla Modal", "Birla Viscose"],
+      "logo": "https://sowtex.com/assets/images/sowtex/Noimage.jpg"
+    },
+    {
+      "title": "PRIMER CREATION",
+      "rating": 4.5,
+      "views": 808,
+      "deals_in": ["Woven Fabric"],
+      "products": 22,
+        "sust_cert":"Y",
+      "catalog": 2,
+      "stock" : 40,
+      "location": "Erode",
+      "enquiry_awarded": 11,
+      "certifications": ["OEKO-TEX Certified"],
+      "logo": "https://sowtex.com/assets/images/sowtex/Noimage.jpg"
+    },
+    {
+      "title": "ADITYA EXPORTS",
+      "rating": 4.8,
+      "views": 755,
+      "deals_in": ["Woven Fabric"],
+      "products": 28,
+        "sust_cert":"Y",
+      "enquiry_awarded": 14,
+      "catalog": 2,
+      "stock" : 40,
+      "location": "Erode",
+      "certifications": ["ISO Certified", "BCI Certified"],
+      "logo": "https://sowtex.com/assets/images/logos/168842880067479.png"
+    }
+  ]
+
+
+}

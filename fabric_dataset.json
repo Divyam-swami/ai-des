@@ -1,0 +1,573 @@
+{
+    "Rayon Cotton Fabric": [
+        {
+            "title": "Rayon Cotton ",
+            "sku": "SKU-873869",
+            "code": "RAY-942",
+            "type": "Rayon Cotton",
+            "gsm": "220 GSM",
+            "count": "30s x 30s",
+            "location": "Ludhiana, India",
+            "quantity": "2500 meters",
+            "image": "https://images.unsplash.com/photo-1606904825856-3a1b4c4e87e2?auto=format&fit=crop&w=400&q=70"
+        },
+        {
+            "title": "Rayon Cotton ",
+            "sku": "SKU-800223",
+            "code": "RAY-340",
+            "type": "Rayon Cotton",
+            "gsm": "120 GSM",
+            "count": "40s x 40s",
+            "location": "Surat, India",
+            "quantity": "4205 meters",
+            "image": "https://images.unsplash.com/photo-1617107395170-dca8fa18a13d?auto=format&fit=crop&w=400&q=70"
+        },
+        {
+            "title": "Rayon Cotton ",
+            "sku": "SKU-920317",
+            "code": "RAY-281",
+            "type": "Rayon Cotton",
+            "gsm": "220 GSM",
+            "count": "100D x 100D",
+            "location": "Tirupur, India",
+            "quantity": "2981 meters",
+            "image": "https://images.unsplash.com/photo-1614760380900-9c1052d96b0b?auto=format&fit=crop&w=400&q=70"
+        },
+        {
+            "title": "Rayon Cotton ",
+            "sku": "SKU-479742",
+            "code": "RAY-544",
+            "type": "Rayon Cotton",
+            "gsm": "130 GSM",
+            "count": "40s x 40s",
+            "location": "Coimbatore, India",
+            "quantity": "5546 meters",
+            "image": "https://images.unsplash.com/photo-1619129880563-7f29f7f24b3f?auto=format&fit=crop&w=400&q=70"
+        },
+        {
+            "title": "Rayon Cotton ",
+            "sku": "SKU-570891",
+            "code": "RAY-922",
+            "type": "Rayon Cotton",
+            "gsm": "180 GSM",
+            "count": "150D x 150D",
+            "location": "Coimbatore, India",
+            "quantity": "2994 meters",
+            "image": "https://images.unsplash.com/photo-1590608897129-79da98d159c9?auto=format&fit=crop&w=400&q=70"
+        }
+    ],
+ 
+  "40s Dobby Cotton Fabric": [
+    {
+      "product_category": "Cotton Dobby",
+      "design_reference": "40S-192",
+      "location": "Ludhiana, India",
+      "supplier_rating": 4.8,
+      "moq": "2000 meters",
+      "image": "https://sowtex.com/assets/images/Product/S01CD002965984.jpeg",
+      "call_to_action": "View Details"
+    },
+    {
+      "product_category": "Cotton Dobby",
+      "design_reference": "40S-676",
+      "location": "Surat, India",
+      "supplier_rating": 4.6,
+      "moq": "4000 meters",
+      "image": "https://sowtex.com/assets/images/Product/S01CD002954754.jpeg",
+      "call_to_action": "View Details"
+    },
+    {
+      "product_category": "Cotton Dobby",
+      "design_reference": "40S-982",
+      "location": "Panipat, India",
+      "supplier_rating": 4.5,
+      "moq": "5000 meters",
+      "image": "https://sowtex.com/assets/images/Product/S01CD002965984.jpeg",
+      "call_to_action": "View Details"
+    },
+    {
+      "product_category": "Cotton Dobby",
+      "design_reference": "40S-786",
+      "location": "Tirupur, India",
+      "supplier_rating": 4.3,
+      "moq": "2300 meters",
+      "image": "https://sowtex.com/assets/images/Product/S01CD00392778.jpeg",
+      "call_to_action": "View Details"
+    },
+    {
+      "product_category": "Cotton Dobby",
+      "design_reference": "40S-534",
+      "location": "Tirupur, India",
+      "supplier_rating": 4.9,
+      "moq": "4600 meters",
+      "image": "https://sowtex.com/assets/images/Product/S01CD00391566.jpeg",
+      "call_to_action": "View Details"
+    },
+    {
+      "product_category": "Cotton Dobby",
+      "design_reference": "40S-993",
+      "location": "Tirupur, India",
+      "supplier_rating": 4.2,
+      "moq": "2100 meters",
+      "image": "https://sowtex.com/assets/images/Product/S01CD002138322.jpeg",
+      "call_to_action": "View Details"
+    }
+  ],
+
+    "Polyester Twill": [
+        {
+            "title": "Poly Twill ",
+            "sku": "SKU-451392",
+            "code": "POL-169",
+            "type": "Poly Twill",
+            "gsm": "150 GSM",
+            "count": "100D x 100D",
+            "location": "Panipat, India",
+            "quantity": "3318 meters",
+            "image": "https://images.unsplash.com/photo-1590608897129-79da98d159c9?auto=format&fit=crop&w=400&q=70"
+        },
+        {
+            "title": "Poly Twill ",
+            "sku": "SKU-220379",
+            "code": "POL-528",
+            "type": "Poly Twill",
+            "gsm": "120 GSM",
+            "count": "24s x 24s",
+            "location": "Ludhiana, India",
+            "quantity": "2053 meters",
+            "image": "https://images.unsplash.com/photo-1611929170935-cf05d4d6d2d4?auto=format&fit=crop&w=400&q=70"
+        },
+        {
+            "title": "Poly Twill ",
+            "sku": "SKU-415269",
+            "code": "POL-367",
+            "type": "Poly Twill",
+            "gsm": "180 GSM",
+            "count": "28s x 28s",
+            "location": "Tirupur, India",
+            "quantity": "5019 meters",
+            "image": "https://images.unsplash.com/photo-1590608897129-79da98d159c9?auto=format&fit=crop&w=400&q=70"
+        },
+        {
+            "title": "Poly Twill ",
+            "sku": "SKU-899266",
+            "code": "POL-787",
+            "type": "Poly Twill",
+            "gsm": "120 GSM",
+            "count": "28s x 28s",
+            "location": "Ludhiana, India",
+            "quantity": "3538 meters",
+            "image": "https://images.unsplash.com/photo-1606904825856-3a1b4c4e87e2?auto=format&fit=crop&w=400&q=70"
+        },
+        {
+            "title": "Poly Twill ",
+            "sku": "SKU-867985",
+            "code": "POL-394",
+            "type": "Poly Twill",
+            "gsm": "150 GSM",
+            "count": "24s x 24s",
+            "location": "Tirupur, India",
+            "quantity": "4670 meters",
+            "image": "https://images.unsplash.com/photo-1571297868501-0a983b91bdf2?auto=format&fit=crop&w=400&q=70"
+        },
+        {
+            "title": "Poly Twill ",
+            "sku": "SKU-305476",
+            "code": "POL-114",
+            "type": "Poly Twill",
+            "gsm": "210 GSM",
+            "count": "40s x 40s",
+            "location": "Panipat, India",
+            "quantity": "4395 meters",
+            "image": "https://images.unsplash.com/photo-1617107395170-dca8fa18a13d?auto=format&fit=crop&w=400&q=70"
+        }
+    ],
+    "Linen Cotton Blend": [
+        {
+            "title": "Linen Cotton Blend ",
+            "sku": "SKU-149711",
+            "code": "LIN-400",
+            "type": "Linen Cotton Blend",
+            "gsm": "200 GSM",
+            "count": "24s x 24s",
+            "location": "Surat, India",
+            "quantity": "2608 meters",
+            "image": "https://images.unsplash.com/photo-1606904825856-3a1b4c4e87e2?auto=format&fit=crop&w=400&q=70"
+        },
+        {
+            "title": "Linen Cotton Blend ",
+            "sku": "SKU-726971",
+            "code": "LIN-580",
+            "type": "Linen Cotton Blend",
+            "gsm": "150 GSM",
+            "count": "100D x 100D",
+            "location": "Panipat, India",
+            "quantity": "2812 meters",
+            "image": "https://images.unsplash.com/photo-1617107395170-dca8fa18a13d?auto=format&fit=crop&w=400&q=70"
+        },
+        {
+            "title": "Linen Cotton Blend ",
+            "sku": "SKU-230547",
+            "code": "LIN-861",
+            "type": "Linen Cotton Blend",
+            "gsm": "150 GSM",
+            "count": "100D x 100D",
+            "location": "Surat, India",
+            "quantity": "5602 meters",
+            "image": "https://images.unsplash.com/photo-1619129880563-7f29f7f24b3f?auto=format&fit=crop&w=400&q=70"
+        },
+        {
+            "title": "Linen Cotton Blend ",
+            "sku": "SKU-822957",
+            "code": "LIN-668",
+            "type": "Linen Cotton Blend",
+            "gsm": "120 GSM",
+            "count": "24s x 24s",
+            "location": "Tirupur, India",
+            "quantity": "2847 meters",
+            "image": "https://images.unsplash.com/photo-1619129880563-7f29f7f24b3f?auto=format&fit=crop&w=400&q=70"
+        },
+        {
+            "title": "Linen Cotton Blend ",
+            "sku": "SKU-510828",
+            "code": "LIN-846",
+            "type": "Linen Cotton Blend",
+            "gsm": "160 GSM",
+            "count": "28s x 28s",
+            "location": "Coimbatore, India",
+            "quantity": "2685 meters",
+            "image": "https://images.unsplash.com/photo-1606904825856-3a1b4c4e87e2?auto=format&fit=crop&w=400&q=70"
+        }
+    ],
+    "100% Cotton Poplin": [
+        {
+            "title": "Poplin Cotton ",
+            "sku": "SKU-697704",
+            "code": "100-327",
+            "type": "Poplin Cotton",
+            "gsm": "120 GSM",
+            "count": "28s x 28s",
+            "location": "Surat, India",
+            "quantity": "4031 meters",
+            "image": "https://images.unsplash.com/photo-1600181950075-19b0d5c396d5?auto=format&fit=crop&w=400&q=70"
+        },
+        {
+            "title": "Poplin Cotton ",
+            "sku": "SKU-162715",
+            "code": "100-912",
+            "type": "Poplin Cotton",
+            "gsm": "200 GSM",
+            "count": "100D x 100D",
+            "location": "Ludhiana, India",
+            "quantity": "4116 meters",
+            "image": "https://images.unsplash.com/photo-1619129880563-7f29f7f24b3f?auto=format&fit=crop&w=400&q=70"
+        },
+        {
+            "title": "Poplin Cotton ",
+            "sku": "SKU-569489",
+            "code": "100-961",
+            "type": "Poplin Cotton",
+            "gsm": "160 GSM",
+            "count": "100D x 100D",
+            "location": "Surat, India",
+            "quantity": "2970 meters",
+            "image": "https://images.unsplash.com/photo-1614760380900-9c1052d96b0b?auto=format&fit=crop&w=400&q=70"
+        },
+        {
+            "title": "Poplin Cotton ",
+            "sku": "SKU-597086",
+            "code": "100-100",
+            "type": "Poplin Cotton",
+            "gsm": "200 GSM",
+            "count": "30s x 30s",
+            "location": "Ludhiana, India",
+            "quantity": "2262 meters",
+            "image": "https://images.unsplash.com/photo-1606904825856-3a1b4c4e87e2?auto=format&fit=crop&w=400&q=70"
+        },
+        {
+            "title": "Poplin Cotton ",
+            "sku": "SKU-960367",
+            "code": "100-164",
+            "type": "Poplin Cotton",
+            "gsm": "200 GSM",
+            "count": "28s x 28s",
+            "location": "Surat, India",
+            "quantity": "3285 meters",
+            "image": "https://images.unsplash.com/photo-1619129880563-7f29f7f24b3f?auto=format&fit=crop&w=400&q=70"
+        }
+    ],
+    "Denim Cotton Fabric": [
+        {
+            "title": "Cotton Denim ",
+            "sku": "SKU-119143",
+            "code": "DEN-204",
+            "type": "Cotton Denim",
+            "gsm": "200 GSM",
+            "count": "150D x 150D",
+            "location": "Surat, India",
+            "quantity": "5508 meters",
+            "image": "https://images.unsplash.com/photo-1619129880563-7f29f7f24b3f?auto=format&fit=crop&w=400&q=70"
+        },
+        {
+            "title": "Cotton Denim ",
+            "sku": "SKU-908521",
+            "code": "DEN-590",
+            "type": "Cotton Denim",
+            "gsm": "220 GSM",
+            "count": "30s x 30s",
+            "location": "Tirupur, India",
+            "quantity": "5667 meters",
+            "image": "https://images.unsplash.com/photo-1606904825856-3a1b4c4e87e2?auto=format&fit=crop&w=400&q=70"
+        },
+        {
+            "title": "Cotton Denim ",
+            "sku": "SKU-372714",
+            "code": "DEN-234",
+            "type": "Cotton Denim",
+            "gsm": "150 GSM",
+            "count": "100D x 100D",
+            "location": "Panipat, India",
+            "quantity": "2992 meters",
+            "image": "https://images.unsplash.com/photo-1600181950075-19b0d5c396d5?auto=format&fit=crop&w=400&q=70"
+        },
+        {
+            "title": "Cotton Denim ",
+            "sku": "SKU-835457",
+            "code": "DEN-292",
+            "type": "Cotton Denim",
+            "gsm": "130 GSM",
+            "count": "24s x 24s",
+            "location": "Coimbatore, India",
+            "quantity": "4986 meters",
+            "image": "https://images.unsplash.com/photo-1590608897129-79da98d159c9?auto=format&fit=crop&w=400&q=70"
+        }
+    ],
+    "Polyester Satin": [
+        {
+            "title": "Satin Polyester ",
+            "sku": "SKU-702046",
+            "code": "POL-864",
+            "type": "Satin Polyester",
+            "gsm": "120 GSM",
+            "count": "30s x 30s",
+            "location": "Panipat, India",
+            "quantity": "2918 meters",
+            "image": "https://images.unsplash.com/photo-1606904825856-3a1b4c4e87e2?auto=format&fit=crop&w=400&q=70"
+        },
+        {
+            "title": "Satin Polyester ",
+            "sku": "SKU-236418",
+            "code": "POL-147",
+            "type": "Satin Polyester",
+            "gsm": "130 GSM",
+            "count": "40s x 40s",
+            "location": "Panipat, India",
+            "quantity": "3848 meters",
+            "image": "https://images.unsplash.com/photo-1611929170935-cf05d4d6d2d4?auto=format&fit=crop&w=400&q=70"
+        },
+        {
+            "title": "Satin Polyester ",
+            "sku": "SKU-650209",
+            "code": "POL-113",
+            "type": "Satin Polyester",
+            "gsm": "120 GSM",
+            "count": "28s x 28s",
+            "location": "Coimbatore, India",
+            "quantity": "2185 meters",
+            "image": "https://images.unsplash.com/photo-1617107395170-dca8fa18a13d?auto=format&fit=crop&w=400&q=70"
+        },
+        {
+            "title": "Satin Polyester ",
+            "sku": "SKU-595752",
+            "code": "POL-461",
+            "type": "Satin Polyester",
+            "gsm": "130 GSM",
+            "count": "32s x 32s",
+            "location": "Coimbatore, India",
+            "quantity": "3709 meters",
+            "image": "https://images.unsplash.com/photo-1606904825856-3a1b4c4e87e2?auto=format&fit=crop&w=400&q=70"
+        },
+        {
+            "title": "Satin Polyester ",
+            "sku": "SKU-488658",
+            "code": "POL-939",
+            "type": "Satin Polyester",
+            "gsm": "160 GSM",
+            "count": "100D x 100D",
+            "location": "Surat, India",
+            "quantity": "5489 meters",
+            "image": "https://images.unsplash.com/photo-1617107395170-dca8fa18a13d?auto=format&fit=crop&w=400&q=70"
+        },
+        {
+            "title": "Satin Polyester ",
+            "sku": "SKU-486417",
+            "code": "POL-346",
+            "type": "Satin Polyester",
+            "gsm": "220 GSM",
+            "count": "28s x 28s",
+            "location": "Coimbatore, India",
+            "quantity": "3426 meters",
+            "image": "https://images.unsplash.com/photo-1606904825856-3a1b4c4e87e2?auto=format&fit=crop&w=400&q=70"
+        }
+    ],
+    "Viscose Rayon Fabric": [
+        {
+            "title": "Rayon Viscose ",
+            "sku": "SKU-203821",
+            "code": "VIS-756",
+            "type": "Rayon Viscose",
+            "gsm": "160 GSM",
+            "count": "100D x 100D",
+            "location": "Surat, India",
+            "quantity": "5485 meters",
+            "image": "https://images.unsplash.com/photo-1600181950075-19b0d5c396d5?auto=format&fit=crop&w=400&q=70"
+        },
+        {
+            "title": "Rayon Viscose ",
+            "sku": "SKU-823793",
+            "code": "VIS-104",
+            "type": "Rayon Viscose",
+            "gsm": "120 GSM",
+            "count": "150D x 150D",
+            "location": "Coimbatore, India",
+            "quantity": "4593 meters",
+            "image": "https://images.unsplash.com/photo-1590608897129-79da98d159c9?auto=format&fit=crop&w=400&q=70"
+        },
+        {
+            "title": "Rayon Viscose ",
+            "sku": "SKU-684123",
+            "code": "VIS-714",
+            "type": "Rayon Viscose",
+            "gsm": "220 GSM",
+            "count": "40s x 40s",
+            "location": "Ludhiana, India",
+            "quantity": "2032 meters",
+            "image": "https://images.unsplash.com/photo-1617107395170-dca8fa18a13d?auto=format&fit=crop&w=400&q=70"
+        },
+        {
+            "title": "Rayon Viscose ",
+            "sku": "SKU-294987",
+            "code": "VIS-613",
+            "type": "Rayon Viscose",
+            "gsm": "180 GSM",
+            "count": "150D x 150D",
+            "location": "Coimbatore, India",
+            "quantity": "2530 meters",
+            "image": "https://images.unsplash.com/photo-1617107395170-dca8fa18a13d?auto=format&fit=crop&w=400&q=70"
+        },
+        {
+            "title": "Rayon Viscose ",
+            "sku": "SKU-465780",
+            "code": "VIS-732",
+            "type": "Rayon Viscose",
+            "gsm": "160 GSM",
+            "count": "30s x 30s",
+            "location": "Tirupur, India",
+            "quantity": "5167 meters",
+            "image": "https://images.unsplash.com/photo-1600181950075-19b0d5c396d5?auto=format&fit=crop&w=400&q=70"
+        }
+    ],
+    "Silk Blend Fabric": [
+        {
+            "title": "Silk Blend ",
+            "sku": "SKU-468161",
+            "code": "SIL-326",
+            "type": "Silk Blend",
+            "gsm": "130 GSM",
+            "count": "24s x 24s",
+            "location": "Surat, India",
+            "quantity": "5487 meters",
+            "image": "https://images.unsplash.com/photo-1617107395170-dca8fa18a13d?auto=format&fit=crop&w=400&q=70"
+        },
+        {
+            "title": "Silk Blend ",
+            "sku": "SKU-251487",
+            "code": "SIL-505",
+            "type": "Silk Blend",
+            "gsm": "220 GSM",
+            "count": "28s x 28s",
+            "location": "Coimbatore, India",
+            "quantity": "4857 meters",
+            "image": "https://images.unsplash.com/photo-1606904825856-3a1b4c4e87e2?auto=format&fit=crop&w=400&q=70"
+        },
+        {
+            "title": "Silk Blend ",
+            "sku": "SKU-481907",
+            "code": "SIL-471",
+            "type": "Silk Blend",
+            "gsm": "130 GSM",
+            "count": "40s x 40s",
+            "location": "Tirupur, India",
+            "quantity": "5163 meters",
+            "image": "https://images.unsplash.com/photo-1590608897129-79da98d159c9?auto=format&fit=crop&w=400&q=70"
+        },
+        {
+            "title": "Silk Blend ",
+            "sku": "SKU-403934",
+            "code": "SIL-813",
+            "type": "Silk Blend",
+            "gsm": "180 GSM",
+            "count": "150D x 150D",
+            "location": "Ludhiana, India",
+            "quantity": "5479 meters",
+            "image": "https://images.unsplash.com/photo-1606904825856-3a1b4c4e87e2?auto=format&fit=crop&w=400&q=70"
+        },
+        {
+            "title": "Silk Blend ",
+            "sku": "SKU-839776",
+            "code": "SIL-445",
+            "type": "Silk Blend",
+            "gsm": "210 GSM",
+            "count": "28s x 28s",
+            "location": "Ludhiana, India",
+            "quantity": "3940 meters",
+            "image": "https://images.unsplash.com/photo-1614760380900-9c1052d96b0b?auto=format&fit=crop&w=400&q=70"
+        }
+    ],
+    "Canvas Cotton Fabric": [
+        {
+            "title": "Canvas Cotton ",
+            "sku": "SKU-468238",
+            "code": "CAN-803",
+            "type": "Canvas Cotton",
+            "gsm": "180 GSM",
+            "count": "40s x 40s",
+            "location": "Panipat, India",
+            "quantity": "5676 meters",
+            "image": "https://images.unsplash.com/photo-1606904825856-3a1b4c4e87e2?auto=format&fit=crop&w=400&q=70"
+        },
+        {
+            "title": "Canvas Cotton ",
+            "sku": "SKU-797229",
+            "code": "CAN-566",
+            "type": "Canvas Cotton",
+            "gsm": "130 GSM",
+            "count": "40s x 40s",
+            "location": "Panipat, India",
+            "quantity": "2793 meters",
+            "image": "https://images.unsplash.com/photo-1619129880563-7f29f7f24b3f?auto=format&fit=crop&w=400&q=70"
+        },
+        {
+            "title": "Canvas Cotton ",
+            "sku": "SKU-161944",
+            "code": "CAN-235",
+            "type": "Canvas Cotton",
+            "gsm": "120 GSM",
+            "count": "40s x 40s",
+            "location": "Surat, India",
+            "quantity": "2952 meters",
+            "image": "https://images.unsplash.com/photo-1611929170935-cf05d4d6d2d4?auto=format&fit=crop&w=400&q=70"
+        },
+        {
+            "title": "Canvas Cotton ",
+            "sku": "SKU-442899",
+            "code": "CAN-431",
+            "type": "Canvas Cotton",
+            "gsm": "120 GSM",
+            "count": "30s x 30s",
+            "location": "Panipat, India",
+            "quantity": "5231 meters",
+            "image": "https://images.unsplash.com/photo-1606904825856-3a1b4c4e87e2?auto=format&fit=crop&w=400&q=70"
+        }
+    ]
+}
